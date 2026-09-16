@@ -1,1 +1,0 @@
-# cs2100-scratch
